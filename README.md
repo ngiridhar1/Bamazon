@@ -26,7 +26,7 @@ A Node app for customers to view items and place orders,In the future upgrade fo
 
 		npm install
 
-- Open MySQL Workbench, SQL Pro, or your preferred database management app. Open the "bamazon.sql" script from the cloned repo, and run it to set up the database and base product/department data.
+- Open MySQL Workbench, Open the "bamazon.sql" script from the cloned repo, and run it to set up the database and base product/department data.
 - Next, within the cloned repo, you'll need to create a pw.js file with the following code, and add your password to access your root server to that file. This file is a dependency for the app. If you do not require a password to access your root, simply leave the pw property as an empty string.
 
 
