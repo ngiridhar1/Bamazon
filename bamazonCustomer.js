@@ -1,7 +1,7 @@
 // npm requirements
 var inquirer = require("inquirer");
 var mysql = require("mysql");
-//var consoleTableNPM = require("console.table");
+
 // my password for mysql db connection - hidden
 var pw = require("./pw.js");
 
